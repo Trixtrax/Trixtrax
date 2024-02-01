@@ -3,11 +3,11 @@
 
 
 
-<h2>Cyber Security and Cloud Projects</h2>
+<h2>Cyber Security and Cloud Projects:</h2>
 
-<h2>Older Projects</h2>
+<h2>Older Projects:</h2>
 
-<h2>Papers</h2>
+<h2>Papers:</h2>
 
 
 
